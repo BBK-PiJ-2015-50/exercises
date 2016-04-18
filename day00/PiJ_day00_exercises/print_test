@@ -1,4 +1,0 @@
-String var1
-print "type something mister!"
-var1 = System.console().readLine()
-print var1 + "is what you just typed"
